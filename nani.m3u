@@ -130,6 +130,12 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Sooka_Lawak_Sentral.png" tvg-id="" tvg-name="", group-title="ᴴᴰ",Lawak Sentral
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
+EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sooka_Jom_Ngaji.png/1280px-Sooka_Jom_Ngaji.png" tvg-name=""  group-title="ᴴᴰ", Jom Ngaji
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sooka_Oh_My_Ceria.png/1280px-Sooka_Oh_My_Ceria.png" tvg-id="" tvg-name="", group-title="ᴴᴰ",Oh My Ceria
 https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
 
@@ -150,7 +156,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="ᴴᴰ",Salam
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/TVIkim.pn" tvg-id="" tvg-name="" group-title="ᴴᴰ",TV Ikim
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/TVIkim.png" tvg-id="" tvg-name="" group-title="ᴴᴰ",TV Ikim
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -454,8 +460,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioPremiere.png" group-title="ᴴᴰ",Universal Premiere ᵒᵗᵗ
-https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioPremiere.png" group-title="ᴴᴰ",Universal Premiere
+https://unipluslivedash.akamaized.net/universalPremiert0/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -518,11 +524,11 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Aniplus.png" group-title="ᴴᴰ",Aniplus 
 https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
-#EXTINF:-1 tvg-chno="300" tvg-id="PBSKids" tvg-name="PBSKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title="ᴴᴰ",PBS Kids
+#EXTINF:-1 tvg-chno="300" tvg-id="PBSKids.id" tvg-name="PBSKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png" group-title="ᴴᴰ",PBS Kids
 #EXTVLCOPT:network-caching=1000
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="zoomoo.id"  tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1584408428_thumb-logo-zoo-moo.png/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="ᴴᴰ",ZooMoo Kids 
+#EXTINF:-1 tvg-id="ZooMoo.id"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/ZooMoo_Kids_2020.svg/revision/latest/scale-to-width-down/300?cb=20240711204703" group-title="ᴴᴰ",ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -592,7 +598,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="ᴴᴰ" group-logo="" tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/1/1b/Premier_League_logo.png/revision/latest?cb=20210414063521",Premier League 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/internationalbroadcasts/images/1/1b/Premier_League_logo.png/revision/latest?cb=20210414063521",Premier League 
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
