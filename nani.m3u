@@ -150,7 +150,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="" group-title="ᴴᴰ",Salam
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
 
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/hYWpUvZL2wc6x948vsddeXJbqCReeBGuiOVqBzp54Tb1oWHZ6eBEyHg8mirpyn1WigYa3GLCQPaiClHwyZXGgoOeXGA" tvg-id="" tvg-name="" group-title="ᴴᴰ",TV Ikim
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/TVIkim.pn" tvg-id="" tvg-name="" group-title="ᴴᴰ",TV Ikim
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -280,6 +280,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="" group-title="ᴴᴰ",tvN Movies 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+EXTINF:-1 tvg-chno="606" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/intl/ArirangTV.png" group-title="ᴴᴰ" Arirang TV
+#EXTGRP:News/World
+#EXTVLCOPT:network-caching=1000
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/index.m3u8
 
 ###ENGLISH
 
@@ -513,9 +518,13 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Aniplus.png" group-title="ᴴᴰ",Aniplus 
 https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
-#EXTINF:-1 tvg-chno="300" tvg-id="PBSKids" tvg-name="PBSKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" group-title="ᴴᴰ",PBS Kids
+#EXTINF:-1 tvg-chno="300" tvg-id="PBSKids" tvg-name="PBSKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg.png" group-title="ᴴᴰ",PBS Kids
 #EXTVLCOPT:network-caching=1000
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="CHN" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="KIDS" group-title="ᴴᴰ",ZooMoo Kids 
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"USSZbrz+4He0qs7DB/ONDw", "kid":"sRGeAbZ6GaPrN8QRQMP6EA" } ], "type":"temporary" }
@@ -735,17 +744,28 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 ### BERITA
 
-#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="ᴴᴰ",Berita RTM
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Berita",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ᴴᴰ",Astro Awani
+#EXTINF:-1 tvg-id="RTMASEAN.my" group-title="Berita", RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Berita",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-id="631.unifi" ch-number="502" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="ᴴᴰ",Bernama
+#EXTINF:-1 tvg-id="631.unifi" ch-number="502" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="Berita",Bernama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+
+#EXTINF:-1 tvg-chno="107" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/RTMP_DewanRakyat.png" group-title="Berita", RTM Parlimen Dewan Rakyat
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8?id=7
+
+#EXTINF:-1 tvg-chno="108" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/local/RTMP_DewanNegara.png" group-title="Berita",RTM Parlimen Dewan Negara
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
 
 ### DOCUMENTARY LIFESTYLE
 
@@ -784,7 +804,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
-  
 
 #EXTINF:-1 tvg-id="BBCLifestyle" ch-number=" " tvg-name="BBC Lifestyle" ch-number="717" group-title="DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/69/BBC_Lifestyle_logo.png/revision/latest?cb=20220208080003&path-prefix=vi",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -845,3 +864,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+
+### RTM Special
+
+#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/RTMKlik.png"
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="RTM SPECIAL",APETITO
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="RTM SPECIAL",AURA
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="RTM SPECIAL",FITRAH
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="RTM SPECIAL",JR.
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="RTM SPECIAL",LEAD
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="RTM SPECIAL",ROLL
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="RTM SPECIAL",SNAP
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
