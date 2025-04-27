@@ -297,7 +297,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 #EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-logo="" group-title="ᴴᴰ",tvN Movies 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 tvg-chno="606" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/intl/ArirangTV.png" group-title="ᴴᴰ" Arirang TV
+#EXTINF:-1 tvg-chno="606" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/FreemediaMY/FreemediaMY/main/assets/freewatch/logos/intl/ArirangTV.png" group-title="ᴴᴰ", Arirang TV
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/index.m3u8
