@@ -170,7 +170,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="TV_Ikim" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png" group-title="ᴴᴰ",tv ɪᴋɪᴍ
+#EXTINF:-1 tvg-id="TV Ikim" tvg-name="TV_Ikim" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png" group-title="ᴴᴰ",tv ɪᴋɪᴍ
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
