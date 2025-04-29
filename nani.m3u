@@ -69,10 +69,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="301" tvg-id="RTBSukmaindera.bn" tvg-name="RTBSukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="ᴴᴰ",RTB ꜱᴜᴋᴍᴀɪɴᴅᴇʀᴀ 🇧🇳
 #EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u
-
-#EXTINF:-1 tvg-id="302" tvg-chno="302" ch-number="302" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/rtbgo.png" group-title="ʟɪᴠᴇ" ,RTB GO ʟɪᴠᴇ
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3ul
 
 ### PESONA
 
@@ -232,6 +229,32 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
+### KOREAN
+
+#EXTINF:-1 tvg-id="396.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="ᵃˢᶦᵃ",K+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+  
+#EXTINF:-1 tvg-id="393.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png" group-title="ᵃˢᶦᵃ",ᴏɴe  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
+
+#EXTINF:-1 tvg-id="395.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="ᵃˢᶦᵃ",tvN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="ᵃˢᶦᵃ",tvN ᴍᴏᴠɪᴇꜱ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/Arirang_TV_%28White%29.png/revision/latest?cb=20230512042237&path-prefix=vi" group-title="ᵃˢᶦᵃ",arirang ᴋᴏʀᴇᴀ
+#EXTVLCOPT:network-caching=1000
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/index.m3u8
+
 ###INDIAN
 
 #EXTINF:-1 tvg-id="201.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVaanavil_2024.png" group-title="ᵃˢᶦᵃ",astro vaanavil
@@ -306,31 +329,110 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20220801_200458_68.png" group-title="ᵃˢᶦᵃ",BollywooD Classic ʜᴅ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-### KOREAN
+###################### INDO HD
 
-#EXTINF:-1 tvg-id="396.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="ᵃˢᶦᵃ",K+ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
-  
-#EXTINF:-1 tvg-id="393.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png" group-title="ᵃˢᶦᵃ",ᴏɴe  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
-#EXTINF:-1 tvg-id="395.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="ᵃˢᶦᵃ",tvN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" } 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+#EXTINF:-1 group-title="ᴵᴰ" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar HD
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-id="416.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="ᵃˢᶦᵃ",tvN ᴍᴏᴠɪᴇꜱ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+#EXTINF:-1 group-title="ᴵᴰ" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV HD
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/Arirang_TV_%28White%29.png/revision/latest?cb=20230512042237&path-prefix=vi" group-title="ᵃˢᶦᵃ",arirang ᴋᴏʀᴇᴀ
-#EXTVLCOPT:network-caching=1000
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/index.m3u8
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="ᴵᴰ",Nusantara TV
+https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png" group-title="ᴵᴰ",MDTV (V+)
+http://202.147.193.244/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV HD
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV HD
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+#https://cdn09jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7 HD
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",TVRI
+https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd
+
+#EXTINF:-1, tvg-id="Prambors" tvg-name="Prambors" group-title="ᴵᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLENE1qwe-RvEHmH_m6e9fg8ZkoNGHOPyoYA&s" tvg-chno="162",Prambors
+https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-id="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808673-.png", RTV FHD (Indi)
+https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+
+#EXTINF:0, tvg-id="IndiKids" tvg-name="IndiKids" group-title="ᴵᴰ" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109", Fun Planet
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 tvg-id="UseePrime" tvg-name="UseePrime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AllPlay_Entertainment.png/800px-AllPlay_Entertainment.png" group-title="ᴵᴰ" tvg-chno="45",AllPlay Entertaiment
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png",TAWAF TV[INDIHOME]
+https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_jaktv_hd.png" group-title="ᴵᴰ", JAKTV ᴴᴰ
+https://streaming.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="ᴵᴰ",Metro TV 2
+https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+ 
+#EXTINF:-1 group-title="ᴵᴰ" tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/destiowahyu/tvlogo/main/kompastv.png",KompasTV 2 (HD)
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
+https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" group-title="ᴵᴰ",JawaPos
+https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
+
+######### CITRA
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-name="TV Religi" tvg-country="ID" tvg-logo="", Citra Muslim HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="", Citra Drama HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-name="" tvg-country="ID" tvg-logo="", Citra Entertainment HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="", Citra Dangdut HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-name="TV Movies" tvg-country="ID" tvg-logo="", Citra Bioskop HD 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ᴵᴰ" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/2560px-VTV_Indonesia_White_2023.svg.png",VTV
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png" group-title="ᴵᴰ",RCTI HD
+#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
+
+#EXTINF:-1 tvg-id="GTV HD - [Channel 3].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="ᴵᴰ", 18.GTV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=3&type=drm
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|referrer=https://visionplus.id/
+
 
 ### ENGLISH
 
@@ -348,7 +450,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
-
 
 #EXTINF:-1 tvg-id="706.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="ᴱᴺ",HITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -843,105 +944,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 group-title="ᵃˢᶦᵃ" tvg-id="ToeiChannel.jp",Toei Channel HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
 
-###################### INDO HD
-
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar HD
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV HD
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="ᴵᴰ",Nusantara TV
-https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png" group-title="ᴵᴰ",MDTV (V+)
-http://202.147.193.244/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV HD
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV HD
-https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
-#https://cdn09jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7 HD
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",TVRI
-https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd
-
-#EXTINF:-1, tvg-id="Prambors" tvg-name="Prambors" group-title="ᴵᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLENE1qwe-RvEHmH_m6e9fg8ZkoNGHOPyoYA&s" tvg-chno="162",Prambors
-https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-id="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1648808673-.png", RTV FHD (Indi)
-https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
-
-#EXTINF:0, tvg-id="IndiKids" tvg-name="IndiKids" group-title="ᴵᴰ" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109", Fun Planet
-https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
-
-#EXTINF:-1 tvg-id="UseePrime" tvg-name="UseePrime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AllPlay_Entertainment.png/800px-AllPlay_Entertainment.png" group-title="ᴵᴰ" tvg-chno="45",AllPlay Entertaiment
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png",TAWAF TV[INDIHOME]
-https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_jaktv_hd.png" group-title="ᴵᴰ", JAKTV ᴴᴰ
-https://streaming.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
-
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="ᴵᴰ",Metro TV 2
-https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
- 
-#EXTINF:-1 group-title="ᴵᴰ" tvg-id="KompasTV.id" tvg-logo="https://raw.githubusercontent.com/destiowahyu/tvlogo/main/kompastv.png",KompasTV 2 (HD)
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" group-title="ᴵᴰ",JawaPos
-https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
-
-######### CITRA
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-name="TV Religi" tvg-country="ID" tvg-logo="", Citra Muslim HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="", Citra Drama HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-name="" tvg-country="ID" tvg-logo="", Citra Entertainment HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-name="TV Entertainment" tvg-country="ID" tvg-logo="", Citra Dangdut HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-name="TV Movies" tvg-country="ID" tvg-logo="", Citra Bioskop HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="ᴵᴰ" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/2560px-VTV_Indonesia_White_2023.svg.png",VTV
-https://flv.intechmedia.net/live/ch107.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/1200px-RCTI_logo_2015.svg.png" group-title="ᴵᴰ",RCTI HD
-#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
-
-#EXTINF:-1 tvg-id="GTV HD - [Channel 3].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="ᴵᴰ", 18.GTV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=3&type=drm
-https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd|referrer=https://visionplus.id/
-
 ### MAIN LIVE
 
 #EXTINF:-1 tvg-id="mewatchlive1.sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%276318742%27&EntityType=%27Item%27&EntityId=%2797073%27&Width=488&Height=249" group-title="ʟɪᴠᴇ",mewatch Live 1
@@ -962,3 +964,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="ʟɪᴠᴇ",Mediacorp Entertainment China
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+
+#EXTINF:-1 tvg-id="302" tvg-chno="302" ch-number="302" tvg-logo="https://raw.githubusercontent.com/indiecrew/icon/master/rtbgo.png" group-title="ʟɪᴠᴇ" ,RTB GO ʟɪᴠᴇ
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
