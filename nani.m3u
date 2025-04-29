@@ -823,24 +823,24 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="ᴴᴰ",SNAP
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
-### "ᵃˢᶦᵃ"
+### Japan
 
-#EXTINF:-1 group-title=""ᵃˢᶦᵃ"" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
+#EXTINF:-1 group-title="ᵃˢᶦᵃ" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
 http://vthanh.utako.moe/Fuji_TV/index.m3u8
 
-#EXTINF:-1 group-title=""ᵃˢᶦᵃ"" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+#EXTINF:-1 group-title="ᵃˢᶦᵃ" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
 
-#EXTINF:-1 group-title=""ᵃˢᶦᵃ"" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
+#EXTINF:-1 group-title="ᵃˢᶦᵃ" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
 http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 
-#EXTINF:-1 group-title=""ᵃˢᶦᵃ"" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
+#EXTINF:-1 group-title="ᵃˢᶦᵃ" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
 http://vthanh.utako.moe/Animax/index.m3u8
 
-#EXTINF:-1 group-title=""ᵃˢᶦᵃ"" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel
+#EXTINF:-1 group-title="ᵃˢᶦᵃ" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 
-#EXTINF:-1 group-title=""ᵃˢᶦᵃ"" tvg-id="ToeiChannel.jp",Toei Channel HD
+#EXTINF:-1 group-title="ᵃˢᶦᵃ" tvg-id="ToeiChannel.jp",Toei Channel HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
 
 ###################### INDO HD
