@@ -157,7 +157,7 @@ https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/R%C2%A1%40.m3u8
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="", Ria
-#http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2678.ts
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2678.ts
 
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png" group-title="ᴴᴰ",astro Prima
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2677.ts
