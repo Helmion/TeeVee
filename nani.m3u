@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://xmltv.tvkaista.net/guides/indihometv.com.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/moveonjoy-epg.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://xmltv.tvkaista.net/guides/indihometv.com.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/moveonjoy-epg.xml,https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/epgs/daddylive-events-epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-title="MALAYA",rtm tv1
@@ -603,16 +603,19 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v18.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="eng" tvg-id="FXX.us",FXX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="eng" tvg-id="FXX.us" tvg-name="FXX USA - Eastern",FXX
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v5.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="hbozone.us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png" group-title="eng",HBO Zone
-http://supersonictv.live:8080/live/144264/661943/22901.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="eng" tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone HD - East", HBO ᴢᴏɴᴇ
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png" group-title="eng", CBS
+#EXTINF:-1 tvg-id="cbs4wfor.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png" group-title="eng" tvg-name="CBS",CBS
 http://supersonictv.live:8080/live/144264/661943/22062.m3u8
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="eng" tvg-id="TNT.-.Eastern.Feed.us",TNT
@@ -660,7 +663,7 @@ https://v14.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v1.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="eng" tvg-id="CW.District.of.Columbia.us",CW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="US TV" tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-name="CW (WDCW) District of Columbia",CW
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -680,6 +683,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="kids" tvg-id="Boomerang.us" tvg-name="Boomerang",BOOMERANG
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v14.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="317" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png" group-title="kids",ᴄᴀʀᴛᴏᴏɴɪᴛᴏ
 #KODIPROP:contentlookup=False
