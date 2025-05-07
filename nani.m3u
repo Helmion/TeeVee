@@ -760,11 +760,11 @@ http://supersonictv.live:8080/live/144264/661943/22884.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v1.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png" group-title="eng" tvg-name="Showtime Extreme",SHOWTIME EXTREME
-http://supersonictv.live:8080/live/144264/661943/22912.m3u8
+##EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png" group-title="eng" tvg-name="Showtime Extreme",SHOWTIME EXTREME
+#http://supersonictv.live:8080/live/144264/661943/22912.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png" group-title="eng" tvg-name="Showtime Next",SHOWTIME NEXT
-http://supersonictv.live:8080/live/144264/661943/22914.m3u8
+##EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png" group-title="eng" tvg-name="Showtime Next",SHOWTIME NEXT
+#http://supersonictv.live:8080/live/144264/661943/22914.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="eng" tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-name="CW (WDCW) District of Columbia",CW
 #EXTVLCOPT:http-origin=https://thetvapp.to
