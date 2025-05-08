@@ -271,7 +271,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2400/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "89de71cf39be0946dec828edff84d010": "9d5e036094bb77cbaf8867d3272c66d0"  }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 
-#EXTINF:-1 tvg-id="311.astro" group-title="asia" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png",astro AOD
+#EXTINF:-1 tvg-id="311.astro" group-title="asia" tvg-logo="tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAOD_2024.png",astro AOD",astro AOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/BeaeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ4ODg0MTksImlzcyI6IlZSIiwiZXhwIjoxNzQ0OTI5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI1MDcifQ.7Z2gy5UZPo1KGW2oSd611tAmJl0Qy0NrH7NnAXNlv9o5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
@@ -1213,7 +1213,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Al_Jazeera_English_HD.my" tvg-name="Al Jazeera English HD.my" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-title="ᴮᴱᴿᴵᵀᴬ",ᴀʟJᴀᴢᴇᴇʀᴀ
+#EXTINF:-1 tvg-id="Al Jazeera English HD" tvg-name="Al Jazeera English HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png" group-title="ᴮᴱᴿᴵᵀᴬ",ᴀʟJᴀᴢᴇᴇʀᴀ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bDxJgROr/99FTck1MZp5TQ","kid":"sfvQh055I/WwWSmgQqoGEA"}],"type":"temporary"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
