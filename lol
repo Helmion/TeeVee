@@ -191,7 +191,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 ### KOREAN
 
-#EXTINF:-1 tvg-id="396.astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_%282013%29.svg/revision/latest?cb=20240723011130" group-title="asia",K+ 
+#EXTINF:-1 tvg-id="396.astro" tvg-logo="https://raw.githubusercontent.com/riotryulianto/iptv-playlists/refs/heads/main/icons/kplus.png" group-title="asia",K+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
@@ -472,7 +472,10 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/800px-Moji_blue.png" group-title="indo",mOjI
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 group-title="indo" tvg-id="" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Rajawali-Televisi-2014-Logo-Vector.svg-.png",rtv
 https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
@@ -486,7 +489,7 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=204&type=drm
 https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
-#EXTINF:-1 group-title="indo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Insert_logo.svg/revision/latest?cb=20220102144300" tvg-name="Insert",!nsert
+#EXTINF:-1 group-title="indo" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" tvg-name="Insert",!nsert
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
 https://cdn08jtedge.indihometv.com/dassdvr/130/insert720/manifest.mpd
@@ -626,7 +629,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 ### ENGLISH MOVIES
 
-#EXTINF:-1 tvg-id="401.astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="eng",HITS Movies
+#EXTINF:-1 tvg-id="401.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png" group-title="eng",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
