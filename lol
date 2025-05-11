@@ -492,9 +492,11 @@ https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 group-title="indo" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/5/57/DramaChannel.png/revision/latest?cb=20210330142913" tvg-name="Drama Channel", drama ᴄʜᴀɴɴᴇʟ
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=204&type=drm
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=204
 https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index.mpd
 
 #EXTINF:-1 group-title="indo" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" tvg-name="Insert",!nsert
@@ -762,7 +764,7 @@ https://v14.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v4.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="LIVE TV CHANNELS" tvg-id="Freeform.-.East.Feed.us" tvg-name="Freeform - East Feed",freeform
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="eng" tvg-id="Freeform.-.East.Feed.us" tvg-name="Freeform - East Feed",freeform
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
