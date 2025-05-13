@@ -175,12 +175,12 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#EXTINF:-1 tvg-id="114.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="MALAYA",TV ALHIJRAH
+#EXTINF:-1 tvg-id="114.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TV_Alhijrah_%282013%29.svg/1200px-TV_Alhijrah_%282013%29.svg.png" group-title="MALAYA",TV ALHIJRAH
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V6jW+eODKIfbGOpgcRGHNg", "kid":"QaQvta9FdQHBG7mxWNWhEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png"   group-title="MALAYA",Salam ʜᴅ
+#EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="MALAYA",Salam ʜᴅ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
@@ -476,7 +476,7 @@ https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd
 #EXTINF:-1 tvg-id="MDTV." tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/MDTV-Logo-2025.png" group-title="indo",MDTV
 http://202.147.193.244/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="indo",ɪnᴅᴏnᴇꜱɪᴀnᴀ ᴛᴠ
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-name="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="indo",ɪnᴅᴏnᴇꜱɪᴀnᴀ ᴛᴠ
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/800px-Moji_blue.png" group-title="indo",mOjI
@@ -1221,7 +1221,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2024/11/USA_Network_White_500x500.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1" group-title="eng" tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network - East Feed",usa network east
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2024/11/USA_Network_White_500x500.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1" group-title="sports" tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network - East Feed",usa network east
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
