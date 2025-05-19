@@ -65,12 +65,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://live-03.tonton.com.my/live-hls/tonton10_720p/index.m3u8?exp=1747305880&hmac=0x744dc4e97b4b1ef0eeff6eb13ba5a31333c535155522eff022341d2eaaf0ee46
+##EXTINF:-1 group-title="MALAYA" tvg-id="" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+##KODIPROP:contentlookup=False
+##KODIPROP:mimetype=application/vnd.apple.mpegurl
+##KODIPROP:inputstream=inputstream.adaptive
+#https://live-03.tonton.com.my/live-hls/tonton10_720p/index.m3u8?exp=1747305880&hmac=0x744dc4e97b4b1ef0eeff6eb13ba5a31333c535155522eff022341d2eaaf0ee46
 
 ### PESONA
 
@@ -1313,6 +1313,8 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/cyberspywalker/image/main/Manchester-United-logo.png" group-title="sports",MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 ### MUSIC
 
