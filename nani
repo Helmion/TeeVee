@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://xmltv.tvkaista.net/guides/indihometv.com.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/pigzillaaaaa/my-iptv/refs/heads/main/epgs/my-iptv-epg.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://xmltv.tvkaista.net/guides/indihometv.com.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/pigzillaaaaa/my-iptv/refs/heads/main/epgs/my-iptv-epg.xml,https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-title="MALAYA",rtm tv1
@@ -194,7 +194,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#EXTINF:-1 tvg-id="416.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png" group-title="asia",tvN ᴍᴏᴠɪᴇꜱ 
+#EXTINF:-1 tvg-id="416.astro" tvg-logo="https://telegra.ph/file/dfaf033cbe35e20c0dcb0.png" group-title="asia",tvN ᴍᴏᴠɪᴇꜱ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
@@ -826,16 +826,16 @@ https://v15.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 channel-id="Cinelife" tvg-logo="https://cinelife.com/wp-content/uploads/2020/04/cinelife_logo.png" group-title="eng",CINE LIFE
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png" group-title="eng" tvg-name="Miramax",MIRAMAX
+#EXTINF:-1 tvg-name="miramax id" tvg-logo="https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png" group-title="eng" tvg-name="Miramax",MIRAMAX
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest?cb=20210408045829" group-title="eng" tvg-name="Pixl TV",Pixʟ
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
-#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="eng" tvg-name="Discover Film",discover.film
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="eng" tvg-name="Discover Film UK",discover.film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="eng" tvg-name="Moviesphere",ᴍOᴠɪᴇꜱᴘʜᴇʀᴇ
+#EXTINF:-1 tvg-name="moviesphere id" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="eng" tvg-name="Moviesphere",ᴍOᴠɪᴇꜱᴘʜᴇʀᴇ
 https://dxazj2uf8uiwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.popstaronline.com/wp-content/uploads/2019/07/popstar-tv-logo.png" group-title="eng" tvg-name="Popstar TV",Popstar! TV
@@ -858,6 +858,9 @@ https://v18.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v18.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FuseEast" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true", FuseEast (HD)
+https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=QFwML1KZUvxz3tBGfd5_pQ&expires=1747891624&user_id=SzBoSnRVYnNYbDU4cXNRR1I0eUtVdmNkZEpRWlVCZkVpZmo3Qm1PUQ==
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="eng" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-name="Fuse TV - Eastern feed",fuse
 http://fl3.moveonjoy.com/FUSE/index.m3u8
@@ -899,7 +902,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="kids" tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL - Eastern Feed",Diꜱɴᴇy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21lvh66.png" group-title="kids" tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL - Eastern Feed",Diꜱɴᴇy
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -917,7 +920,7 @@ https://v13.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="kids" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="Nickelodeon USA - East Feed",nick US
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jE2YHz0.png" group-title="kids" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="Nickelodeon USA - East Feed",nick US
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1131,27 +1134,17 @@ http://nocable.cc:8080/220726268/220726268/35243
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"} 
 http://nocable.cc:8080/220726268/220726268/137720
 
-#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Premier League
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"} 
-https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Main Event ᴜʜᴅ
+https://a1xs.vip/2000015
 
-#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Premier League
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"} 
-http://defaultgen.com:3050/live/MauriceIrby283/WYSBw8J6M8/508256.ts
-#http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/401605125.ts
-#https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#https://raw.githubusercontent.com/ayahdee/-/89ef7e81387edf98a768540bf85a6db1a3b77592/%24k%C2%A5%20%24p%E2%97%8B%C2%AE%EF%B8%8Ft%20P%C2%AE%EF%B8%8F%C2%A3%CF%80%CF%80%C2%A1%C2%A3%C2%AE%EF%B8%8F.m3u8
-#http://defaultgen.com:3050/live/jesse808miller%40gmail.com/WgPbEh5sgU/508256
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Premier League ꜰʜᴅ
+https://a1xs.vip/2000002
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Action
-http://nocable.cc:8080/220726268/220726268/53705
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Football ꜰʜᴅ
+https://a1xs.vip/2000003
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Arena
-http://nocable.cc:8080/220726268/220726268/35238
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Arena ꜰʜᴅ
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"} 
-http://nocable.cc:8080/220726268/220726268/137719
+#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="UK Sports",Sky Sports+ ꜰʜᴅ
+https://a1xs.vip/2000012
 
 #EXTINF:-1 tvg-id="820.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="sports",beIN Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1241,6 +1234,9 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 ##KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nNXA0eVMIuA12I3Twd/ITA", "kid":"AQy7nPGgHq04Bwcw04vHEA" } ], "type":"temporary" }
 ##https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 
+#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.uk" tvg-name="TNT Sports Ultimate" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="sports",TNT Sports Ultimate ᴜʜᴅ
+https://a1xs.vip/2000031
+
 #EXTINF:-1 group-title="sports" tvg-id="tnt100a" group-logo="https://iili.io/dMQO9t4.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
@@ -1291,6 +1287,18 @@ http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60467
 #EXTINF:-1 tvg-id="NOW SPORTS PRIME FHD" tvg-name="" group-title="sports" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/75/Now_Sports_Prime.png/revision/latest/scale-to-width-down/1200?cb=20230913155331&path-prefix=vi", NOW SPORTS PRIME FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/958148.ts|user-agent=IPTVPROPlayer
 
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="sports",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="sports",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="sports",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="sports",Hub Premier 4 FHD
+https://a1xs.vip/1100044
+
 #EXTINF:-1 group-title="sports" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg", peacock sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1328,11 +1336,10 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/cyberspywalker/image/main/Manchester-United-logo.png" group-title="sports",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 group-title="sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-id="LFCTV HD" tvg-logo="https://pictr.com/images/2024/04/22/EDzj3Y.png",LFC TV
-http://defaultgen.com:3050/live/MauriceIrby283/WYSBw8J6M8/508216.ts
-#https://raw.githubusercontent.com/ayahdee/-/40e9475f50df372a6b07d200f1d5cb4710204b84/L%C2%A1v%C2%A3%C2%AE%EF%B8%8Fp%E2%97%8B%E2%97%8Bl%20F%C2%A9%EF%B8%8F.m3u8
-#https://xyzdddd.mizhls.ru/lb/premium826/index.m3u8
-#http://defaultgen.com:3050/live/jesse808miller%40gmail.com/WgPbEh5sgU/508216
+#EXTINF:-1 group-title="sports" tvg-id="LFCTV HD" tvg-name="LFCTV HD" tvg-logo="https://pictr.com/images/2024/04/22/EDzj3Y.png",LFC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium826/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#https://webhdrunns.mizhls.ru/lb/premium826/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ### MUSIC
 
