@@ -97,7 +97,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SENSASI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Sensasi_%28Dec_2024%29.png" group-title="MALAYA",astro Sensasi
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SENSASI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Astro_Sensasi_%28Dec_2024%29.png/revision/latest?cb=20241125071316" group-title="MALAYA",astro Sensasi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 ;https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
@@ -485,10 +485,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index
 https://cdn08jtedge.indihometv.com/dassdvr/130/insert720/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="indo",GTV
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://aseanic.github.io/hls/285.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 
 #EXTINF:-1 group-title="indo" tvg-id="magnachannel.id" tvg-name="Magna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",MAGNA TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -859,7 +856,7 @@ https://v18.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v18.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FuseEast" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true", FuseEast (HD)
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FuseEast" group-title="eng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true", FuseEast (HD)
 https://v2.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=QFwML1KZUvxz3tBGfd5_pQ&expires=1747891624&user_id=SzBoSnRVYnNYbDU4cXNRR1I0eUtVdmNkZEpRWlVCZkVpZmo3Qm1PUQ==
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="eng" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-name="Fuse TV - Eastern feed",fuse
@@ -1127,23 +1124,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Main Event
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="sports",Sky Sports Main Event
 http://nocable.cc:8080/220726268/220726268/35243
 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Main Event ꜰʜᴅ
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="sports",Sky Sports Main Event ꜰʜᴅ
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"} 
 http://nocable.cc:8080/220726268/220726268/137720
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Main Event ᴜʜᴅ
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="sports",Sky Sports Main Event ᴜʜᴅ 1
 https://a1xs.vip/2000015
 
-#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Premier League ꜰʜᴅ
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="sports",Sky Sports Main Event ᴜʜᴅ 2
+https://7pal.short.gy/SSMEuhd
+
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="sports",Sky Sports Premier League ꜰʜᴅ 1
 https://a1xs.vip/2000002
 
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="sports",Sky Sports Football ꜰʜᴅ
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="sports",Sky Sports Premier League ꜰʜᴅ 2
+https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="sports",Sky Sports Football ꜰʜᴅ
 https://a1xs.vip/2000003
 
-#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+" tvg-logo="https://www.freeshot.live/upload/source/sky-sports-premier-league_logo.png" group-title="UK Sports",Sky Sports+ ꜰʜᴅ
+#EXTINF:-1 tvg-id="SkySp+HD.uk" tvg-name="Sky Sports+" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt3b8488da02f05f25/66b2010b0d26b22d93e45755/Sky_Sports_Logo.png" group-title="sports",Sky Sports+ ꜰʜᴅ
 https://a1xs.vip/2000012
 
 #EXTINF:-1 tvg-id="820.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="sports",beIN Sports 1 
@@ -1269,34 +1272,37 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lsXvaUeXMq5zT5YnSMGXKQ", "kid":"4xpagcr/XQfqJBGlcfwuWQ" } ], "type":"temporary" }
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-ID="" tvg-name="Now Premier Sports 1" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="sports",Now Premier Sports 1
+#EXTINF:-1 tvg-id="Now.Sports.4K.1.hk" tvg-name="Now Sports 1" tvg-logo="https://i.postimg.cc/TP5pTkgg/611-e.png" group-title="sports",Now Sports 1 4K
+https://7pal.short.gy/nowsport4k
+
+#EXTINF:-1 tvg-ID="" tvg-name="Now Sports 1" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="sports",Now Sports 1
 http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60463
 
-#EXTINF:-1 tvg-ID="" tvg-name="Now Premier Sports 2" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="sports",Now Premier Sports 2
+#EXTINF:-1 tvg-ID="" tvg-name="Now Sports 2" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="sports",Now Sports 2
 http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60464
 
-#EXTINF:-1 tvg-ID="" tvg-name="Now Premier Sports 3" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" group-title="sports",Now Premier Sports 3
+#EXTINF:-1 tvg-ID="" tvg-name="Now Sports 3" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" group-title="sports",Now Sports 3
 http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60465
 
-#EXTINF:-1 tvg-ID="" tvg-name="Now Premier Sports 4" tvg-logo="https://www.nowtv.now.com/media/logo/624-wbg-e.png" group-title="sports",Now Premier Sports 4
+#EXTINF:-1 tvg-ID="" tvg-name="Now Sports 4" tvg-logo="https://www.nowtv.now.com/media/logo/624-wbg-e.png" group-title="sports",Now Sports 4
 http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60466
 
-#EXTINF:-1 tvg-ID="" tvg-name="Now Premier Sports 5" tvg-logo="https://www.nowtv.now.com/media/logo/625-wbg-e.png" group-title="sports",Now Premier Sports 5
+#EXTINF:-1 tvg-ID="" tvg-name="Now Sports 5" tvg-logo="https://www.nowtv.now.com/media/logo/625-wbg-e.png" group-title="sports",Now Sports 5
 http://tvm8.org:8080/jK8jAu7GFky8/sK8J1xkBuPU6/60467
 
 #EXTINF:-1 tvg-id="NOW SPORTS PRIME FHD" tvg-name="" group-title="sports" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/75/Now_Sports_Prime.png/revision/latest/scale-to-width-down/1200?cb=20230913155331&path-prefix=vi", NOW SPORTS PRIME FHD
 https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/958148.ts|user-agent=IPTVPROPlayer
 
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="sports",Hub Premier 1 FHD
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="sports",Hub Premier 1
 https://a1xs.vip/1100041
 
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="sports",Hub Premier 2 FHD
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="sports",Hub Premier 2
 https://a1xs.vip/1100042
 
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="sports",Hub Premier 3 FHD
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="sports",Hub Premier 3
 https://a1xs.vip/1100043
 
-#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="sports",Hub Premier 4 FHD
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="sports",Hub Premier 4
 https://a1xs.vip/1100044
 
 #EXTINF:-1 group-title="sports" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2020/07/peacockpl-832x410.jpg", peacock sports
