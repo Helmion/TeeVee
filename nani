@@ -939,7 +939,7 @@ https://v18.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
+https://v5.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=wkKV2SP7PAKQ49rzWR3gag&expires=1748340783&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-id="616.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" group-title="kids;MALAYA",nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1157,21 +1157,27 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="sports",Sky Sports Main Event
 http://nocable.cc:8080/220726268/220726268/35243
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="sports",Sky Sports Main Event 2
+http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="sports",Sky Sports Main Event ꜰʜᴅ
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)"} 
 http://nocable.cc:8080/220726268/220726268/137720
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="sports",Sky Sports Main Event ᴜʜᴅ 1
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="sports",Sky Sports Main Event ᴜʜᴅ
 https://a1xs.vip/2000015
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="sports",Sky Sports Main Event ᴜʜᴅ 2
 https://7pal.short.gy/SSMEuhd
 
-#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="sports",Sky Sports Premier League ꜰʜᴅ 1
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="sports",Sky Sports Premier League ꜰʜᴅ
 https://a1xs.vip/2000002
 
 #EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="sports",Sky Sports Premier League ꜰʜᴅ 2
 https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="sports",Sky Sports Premier League ꜰʜᴅ 3
+http://supersonictv.live:8080/live/Sheila/Sheila1/78155.ts
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-name="Sky Sports Football" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="sports",Sky Sports Football ꜰʜᴅ
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=577976&extension=ts
@@ -1500,7 +1506,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
   
-#EXTINF:-1 tvg-id="HGTV" ch-number=" " tvg-name="HGTV" ch-number="715" group-title="eng" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HGTV_v1.png" ch-number="715",HGTV
+#EXTINF:-1 tvg-id="HGTV" ch-number=" " tvg-name="HGTV" ch-number="715" group-title="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" ch-number="715",HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
