@@ -42,6 +42,23 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
+#EXTINF:-1 tvg-id="106.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" group-title="MALAYA",astro Oasis
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
+
+#EXTINF:-1 tvg-id="114.astro" tvg-logo="https://aqfadtv.xyz/logos/TVAlhijrahWhite.png" group-title="MALAYA",TV ALHIJRAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+
+#EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="MALAYA",Salam ʜᴅ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="MALAYA",Awesome
 #http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
@@ -75,9 +92,13 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/OKEY.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="tvs+" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png",TVS+
+#EXTINF:-1 group-title="MALAYA" tvg-id="tvs+" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/11/TVS_Plus_Logo_v14.png",TVS+
 #https://stream2.smg.my/live/tvsplus_720p2628kbs/index.m3u8
 https://stream2.smg.my/live/tvsplus.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Ikim" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png" group-title="MALAYA",tv ɪᴋɪᴍ
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO SENSASI HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Astro_Sensasi_%28Dec_2024%29.png/revision/latest?cb=20241125071316" group-title="MALAYA",astro Sensasi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -142,27 +163,6 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd 
-
-#EXTINF:-1 tvg-id="106.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" group-title="MALAYA",astro Oasis
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
-
-#EXTINF:-1 tvg-id="114.astro" tvg-logo="https://aqfadtv.xyz/logos/TVAlhijrahWhite.png" group-title="MALAYA",TV ALHIJRAH
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
-
-#EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="MALAYA",Salam ʜᴅ
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Ikim" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png" group-title="MALAYA",tv ɪᴋɪᴍ
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 ### KOREAN
 
