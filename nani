@@ -658,7 +658,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 ############# USTV
 
-#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FXMovieChannel" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true", FXMovieChannel (HD)
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FX Movie Channel" group-title="eng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true", FX Movie Channel
 https://v3.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8?token=PkVb6U2DLEyB0toJ1P4W9A&expires=1748341144&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="eng" tvg-id="FX.Networks.East.Coast.us",FX
@@ -673,59 +673,41 @@ https://v17.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8?token=_aBF7uJVweWIRCxMT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v12.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8?token=SwYSKn_wFq_tx-hAUylLsQ&expires=1748341164&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
-#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBOEast" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-us.png?raw=true", HBOEast (HD)
-https://v17.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8?token=P0oabir4-6TG2hiU6tYtkw&expires=1748341241&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
-
-#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO2East" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-2-us.png?raw=true", HBO2East (HD)
-https://v15.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8?token=S6LVtHdoMWXWY4cwP576gQ&expires=1748341252&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
-
-#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBOComedyEast" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true", HBOComedyEast (HD)
-https://v2.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8?token=7AL1r42Gwv5E1Wln1SgCgA&expires=1748341262&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
-
-#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBOFamilyEast" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true", HBOFamilyEast (HD)
-https://v15.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8?token=nJAUQql4WJkMPbmvQaRxJw&expires=1748341273&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
-
-#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBOSignatureEast" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-signature-us.png?raw=true", HBOSignatureEast (HD)
-https://v4.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8?token=gWmFzDEMVWB1Hcgo8QHvGQ&expires=1748341283&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
-
-#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBOZoneEast" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-zone-us.png?raw=true", HBOZoneEast (HD)
-https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8?token=epo9VBXe_xWkKf5vAxuugA&expires=1748341294&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="eng" tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO - Eastern Feed", HBO US
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
+https://v17.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8?token=P0oabir4-6TG2hiU6tYtkw&expires=1748341241&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="eng" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO 2 - Eastern Feed", HBO2 US
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v15.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8?token=S6LVtHdoMWXWY4cwP576gQ&expires=1748341252&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="eng" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family - Eastern Feed",HBO ꜰᴀᴍɪʟʏ US
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
+https://v15.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8?token=nJAUQql4WJkMPbmvQaRxJw&expires=1748341273&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="eng" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-name="HBO Signature (HBO 3) - Eastern",HBO ꜱɪɢɴᴀᴛᴜʀᴇ US
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v1.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8?token=gWmFzDEMVWB1Hcgo8QHvGQ&expires=1748341283&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="eng" tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone HD - East",HBO ᴢᴏɴᴇ US
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
+https://v13.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8?token=epo9VBXe_xWkKf5vAxuugA&expires=1748341294&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="eng" tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy HD - East",HBO ᴄᴏᴍᴇᴅʏ US
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v16.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
+https://v2.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8?token=7AL1r42Gwv5E1Wln1SgCgA&expires=1748341262&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="eng" tvg-id="Starz.-.Eastern.us" tvg-name="Starz - Eastern",STARZ
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -781,16 +763,16 @@ http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=681775&extensi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v17.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8?token=Q4zWCkKi_DjyGRQaLMTrZQ&expires=1748340792&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="eng" tvg-id="IFC.us" tvg-name="IFC Independent Film Channel US", IFC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="eng" tvg-id="IFC.us" tvg-name="IFC Independent Film Channel US",IFC
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v13.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8?token=5RhntVnF5753kzdz0sbnIA&expires=1748341337&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="eng" tvg-id="IFC.us" tvg-name="IFC Independent Film Channel US", IFC ꜰʜᴅ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="eng" tvg-id="IFC.us" tvg-name="IFC",IFC ꜰʜᴅ
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469399&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="eng" tvg-id="Freeform.-.East.Feed.us" tvg-name="Freeform - East Feed",freeform ꜰʜᴅ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="eng" tvg-id="Freeform.-.East.Feed.us" tvg-name="freeform",freeform ꜰʜᴅ
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -802,7 +784,7 @@ http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=656385&extensi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v8.thetvapp.to/hls/FreeformEast/tracks-v1a1/mono.m3u8?token=X-bQwofJRA96hCvWKhfHjQ&expires=1748341124&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
-#EXTINF:-1 tvg-id="logo-east" tvg-name="LogoEast" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true", LogoEast (HD)
+#EXTINF:-1 tvg-id="LOGO.-.East.us" tvg-name="LOGO - East" group-title="eng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true",Logo.
 https://v8.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8?token=f7EkX2sD0it2bpUOYE4Q0w&expires=1748341394&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="eng" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us",SHOWTIME
@@ -847,15 +829,14 @@ http://supersonictv.live:8080/live/144264/661943/22884.m3u8
 ##EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png" group-title="eng" tvg-name="Showtime Next",SHOWTIME NEXT
 ##http://supersonictv.live:8080/live/144264/661943/22914.m3u8
 
-#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="LifetimeMoviesEast" group-title="TheTVApp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/circle2-247.png?raw=true", LifetimeMoviesEast (HD)
+#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us" tvg-name="Lifetime Movies Network - East" group-title="TheTVApp" tvg-logo="https://imageresizer.static9.net.au/GtsdOnnDfZkNBw-nDuK7GREla-o=/1920x0/filters:format(webp)/vms-live-event-assets-prod.s3-ap-southeast-2.amazonaws.com%2Ftv%2Fimages%2F2025%2F01%2F660811%2Flive-event-logo-4.png", LIFETIME MOVIE NETWORK
 https://v13.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8?token=sBUEV5Ub9htdKtCnM9wCPw&expires=1748341372&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="eng" tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-name="CW (WDCW) District of Columbia",CW
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v13.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
-?token=vGBmuxbMc7eeXgLtXPNK2Q&expires=1748340710&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
+https://v2.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8?token=vGBmuxbMc7eeXgLtXPNK2Q&expires=1748340710&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="eng" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="COMEDY CENTRAL (US) - Eastern Feed",Comedy Central
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -869,10 +850,10 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 #EXTINF:-1 tvg-name="miramax id" tvg-logo="https://provider-static.plex.tv/epg/cms/production/39d7cc81-90e2-4ffa-a5f3-8cdc69c86db6/MIRAMAX_LOGO_VARIATION_2_-_Gabe_Evans.png" group-title="eng" tvg-name="Miramax",MIRAMAX
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest?cb=20210408045829" group-title="eng" tvg-name="Pixl TV",Pixʟ
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest?cb=20210408045829" group-title="eng" tvg-id="PixL.HDTV.(PixLHD).us" tvg-name="Pixl TV",Pixʟ
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
-#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" group-title="eng"  tvg-logo="",PixL
+#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" group-title="eng"  tvg-logo="",PixL ꜰʜᴅ
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469419&extension=m3u8
 
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="eng" tvg-name="Discover Film UK",discover.film
@@ -881,7 +862,7 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="moviesphere id" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="eng" tvg-name="Moviesphere",ᴍOᴠɪᴇꜱᴘʜᴇʀᴇ
 https://dxazj2uf8uiwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.popstaronline.com/wp-content/uploads/2019/07/popstar-tv-logo.png" group-title="eng" tvg-name="Popstar TV",Popstar! TV
+#EXTINF:-1 tvg-logo="https://www.popstaronline.com/wp-content/uploads/2019/07/popstar-tv-logo.png" group-title="eng" tvg-name="Popstar TV",Popstar! TV
 https://linear-10.frequency.stream/dist/zype/10/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="MALAYA;eng" tvg-id="Destination.America.us" tvg-name="Destination America",ᴅᴇꜱᴛɪɴᴀᴛɪᴏɴ AMERICA
@@ -905,7 +886,7 @@ https://v3.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8?token=N7HNrgNY9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v18.thetvapp.to/hls/WPIX/tracks-v1a1/mono.m3u8?token=-Nwqg-M7QiuqTOGi11NLQw&expires=1748342144&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
-#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FuseEast" group-title="eng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true", fuse tvapp
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FuseEast" group-title="eng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fuse-us.png?raw=true",fuse
 https://v15.thetvapp.to/hls/FuseEast/tracks-v1a1/mono.m3u8?token=G19PFE4ojJPwnv-MxvIkjA&expires=1748341135&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Just_For_Laughs_Gags.png" tvg-id="LN_8B382916-6958-4C22-98BF-3F3CD781A4A9" group-title="eng",Just For Laughs Gags
