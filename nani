@@ -721,7 +721,7 @@ https://v4.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8?token=OdidTsse5wmJSR5e
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v8.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8?token=n6Nyhqqerm8XuABxqcQkIA&expires=1748341929&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
+https://v18.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8?token=mxILWDYnLQqmQ072eVM6DA&expires=1748691899&user_id=YThTTVlOQVJCN2dtSUxxS3IwbjNUT1V0SEhLYklNdWpDNWRERVRkRg==
 
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="eng" tvg-id="TBS.-.East.us" tvg-name="TBS - East",TBS ꜰʜᴅ
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469433&extension=m3u8
@@ -739,7 +739,7 @@ http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=681775&extensi
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v4.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8?token=yK_mxt7w4vUj1uVpcPgi_g&expires=1748428242&user_id=S2N1dUkyN0FFQ3JLQVJPamkxRWZRNTR4eGFDR3B0ZDFEdnNEOHJFdg==
+https://v5.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8?token=StFafkIG-3P8_9yY_caFJw&expires=1748692043&user_id=YThTTVlOQVJCN2dtSUxxS3IwbjNUT1V0SEhLYklNdWpDNWRERVRkRg==
 
 #EXTINF:-1 tvg-id="LOGO.-.East.us" tvg-name="LOGO - East" group-title="eng" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true",Logo.
 https://v8.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8?token=f7EkX2sD0it2bpUOYE4Q0w&expires=1748341394&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
@@ -935,13 +935,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v18.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=0s1rpHl6DoQi3RqeXiUGJA&expires=1748340763&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
+https://v17.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=zwWLdnoDAOIZL_eOv56-ww&expires=1748690758&user_id=YThTTVlOQVJCN2dtSUxxS3IwbjNUT1V0SEhLYklNdWpDNWRERVRkRg==
 
 #EXTINF:-1 group-title="kids" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" tvg-name="DISNEY XD",Diꜱɴᴇy XD
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v5.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=wkKV2SP7PAKQ49rzWR3gag&expires=1748340783&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
+https://v18.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=KVfBg-QGCF5N9LE-lvhpMQ&expires=1748690782&user_id=YThTTVlOQVJCN2dtSUxxS3IwbjNUT1V0SEhLYklNdWpDNWRERVRkRg==
 
 #EXTINF:-1 tvg-id="616.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" group-title="kids;MALAYA",nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
