@@ -530,6 +530,14 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.psjtv.id/wp-content/uploads/2023/06/PSJTV-LOGO.png" group-title="nusantara",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+https://e.siar.us/live/surabayatv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5FI41z_riXU/hqdefault.jpg" group-title="nusantara",BMS tv
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
@@ -906,11 +914,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="kids" tvg-id="Boomerang.us" tvg-name="Boomerang",BOOMERANG
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=i3E0KEMuo2VZhddPlMI24Q&expires=1748340534&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
+##EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="kids" tvg-id="Boomerang.us" tvg-name="Boomerang",BOOMERANG
+##EXTVLCOPT:http-origin=https://thetvapp.to
+##EXTVLCOPT:http-referrer=https://thetvapp.to/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://v14.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=i3E0KEMuo2VZhddPlMI24Q&expires=1748340534&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-id="Cartoonito HD" tvg-name="Cartoonito HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png?w=272" group-title="kids",ᴄᴀʀᴛᴏᴏɴɪᴛᴏ
 #KODIPROP:contentlookup=False
@@ -926,17 +934,17 @@ http://143.44.136.110:6910/001/2/ch00000090990000001125/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/21lvh66.png" group-title="kids" tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL - Eastern Feed",Diꜱɴᴇy
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v17.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=zwWLdnoDAOIZL_eOv56-ww&expires=1748690758&user_id=YThTTVlOQVJCN2dtSUxxS3IwbjNUT1V0SEhLYklNdWpDNWRERVRkRg==
+##EXTINF:-1 tvg-logo="https://i.imgur.com/21lvh66.png" group-title="kids" tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL - Eastern Feed",Diꜱɴᴇy
+##EXTVLCOPT:http-origin=https://thetvapp.to
+##EXTVLCOPT:http-referrer=https://thetvapp.to/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://v17.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8?token=zwWLdnoDAOIZL_eOv56-ww&expires=1748690758&user_id=YThTTVlOQVJCN2dtSUxxS3IwbjNUT1V0SEhLYklNdWpDNWRERVRkRg==
 
-#EXTINF:-1 group-title="kids" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" tvg-name="DISNEY XD",Diꜱɴᴇy XD
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v18.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=KVfBg-QGCF5N9LE-lvhpMQ&expires=1748690782&user_id=YThTTVlOQVJCN2dtSUxxS3IwbjNUT1V0SEhLYklNdWpDNWRERVRkRg==
+##EXTINF:-1 group-title="kids" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" tvg-name="DISNEY XD",Diꜱɴᴇy XD
+##EXTVLCOPT:http-origin=https://thetvapp.to
+##EXTVLCOPT:http-referrer=https://thetvapp.to/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://v18.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=KVfBg-QGCF5N9LE-lvhpMQ&expires=1748690782&user_id=YThTTVlOQVJCN2dtSUxxS3IwbjNUT1V0SEhLYklNdWpDNWRERVRkRg==
 
 #EXTINF:-1 tvg-id="616.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png" group-title="kids;MALAYA",nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -944,11 +952,11 @@ https://v18.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8?token=KVfBg-QGCF5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jE2YHz0.png" group-title="kids" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="Nickelodeon USA - East Feed",nick US
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v16.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=vXVjhJozuUQs6TtKuIk3VQ&expires=1748341713&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
+##EXTINF:-1 tvg-logo="https://i.imgur.com/jE2YHz0.png" group-title="kids" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="Nickelodeon USA - East Feed",nick US
+##EXTVLCOPT:http-origin=https://thetvapp.to
+##EXTVLCOPT:http-referrer=https://thetvapp.to/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://v16.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8?token=vXVjhJozuUQs6TtKuIk3VQ&expires=1748341713&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-id="617.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_10000498_v1.png" group-title="kids",nick jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1018,11 +1026,11 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://streaming.indihometv.com/atm/DASH/mykids/manifest.mpd
 #https://cdn09jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="kids" tvg-id="MeTV.Toons.(WJLP2).NJ.us" tvg-name="MeTV Toons (WJLP2) New Jersey",Me TV Toons
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v18.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8?token=h1d86lt8dzXLke-EXcPdkQ&expires=1748341414&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="kids" tvg-id="MeTV.Toons.(WJLP2).NJ.us" tvg-name="MeTV Toons (WJLP2) New Jersey",Me TV Toons
+##EXTVLCOPT:http-origin=https://thetvapp.to
+##EXTVLCOPT:http-referrer=https://thetvapp.to/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#https://v18.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8?token=h1d86lt8dzXLke-EXcPdkQ&expires=1748341414&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="https://www.anipluscafe.com/vanitas/wp-content/uploads/2019/11/logo-white.png" group-title="kids",ANIPLUS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1370,7 +1378,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
-#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV HD" tvg-logo="https://raw.githubusercontent.com/cyberspywalker/image/main/Manchester-United-logo.png" group-title="sports",MUTV
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV HD" tvg-logo="https://mutv.manutd.com/assets/images/MUTV_logo.png" group-title="sports",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:-1 group-title="sports" tvg-id="LFCTV HD" tvg-name="LFCTV HD" tvg-logo="https://pictr.com/images/2024/04/22/EDzj3Y.png",LFCTV
