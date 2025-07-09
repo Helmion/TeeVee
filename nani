@@ -1,6 +1,12 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/dbghelp/JCOM-TV-EPG/refs/heads/main/jcom.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/pigzillaaaaa/my-iptv/refs/heads/main/epgs/my-iptv-epg.xml,https://github.com/BuddyChewChew/combine-remote-epg/raw/refs/heads/main/combined_epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/ediey7523017/tv/main/HBOGO,https://raw.githubusercontent.com/ediey7523017/tv/main/XFirst,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://raw.githubusercontent.com/ediey7523017/tv/main/DewaNonton,https://raw.githubusercontent.com/ediey7523017/tv/main/AOTG,https://raw.githubusercontent.com/ediey7523017/tv/main/PerfectMovies"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/astro.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/sooka.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/dbghelp/JCOM-TV-EPG/refs/heads/main/jcom.xml,https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml,https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml,https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/epg.xml,https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml,https://raw.githubusercontent.com/pigzillaaaaa/my-iptv/refs/heads/main/epgs/my-iptv-epg.xml,https://github.com/BuddyChewChew/combine-remote-epg/raw/refs/heads/main/combined_epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml" refresh="1440" vod_library="https://raw.githubusercontent.com/yiddn/mygit/refs/heads/main/VODFILE.m3u,https://raw.githubusercontent.com/ediey7523017/tv/main/HBOGO,https://raw.githubusercontent.com/ediey7523017/tv/main/XFirst,https://raw.githubusercontent.com/mimipipi22/lalajo/main/vod,https://raw.githubusercontent.com/ediey7523017/tv/main/DewaNonton,https://raw.githubusercontent.com/ediey7523017/tv/main/AOTG,https://raw.githubusercontent.com/ediey7523017/tv/main/PerfectMovies"
 
 ####### extra epg https://warningfm.github.io/x1/epg/guide.xml.gz, " max-conn="1" refresh="24" 
+
+#EXTINF:-1 tvg-id="100.astro" group-title="MALAYA" tvg-name="Scream" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png",astro HEROES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5183/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-title="MALAYA",rtm tv1
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
@@ -38,10 +44,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-id="108.astro" tvg-name="ASTRO CITRA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroCitra_2024.png" group-title="MALAYA",astro Citra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/413HtMT_ihEenIVn7lK1FJZjoqpoZ8Ba2Jm0bBcklh1dc=7QIq/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
+##http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-id="106.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" group-title="MALAYA",astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -358,13 +368,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
 
-#EXTINF:-1 tvg-id="223.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png" group-title="bollywood",ᴢᴇᴇ ᴛamil ʜᴅ
+#EXTINF:-1 tvg-id="223.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" group-title="bollywood",Z ᴛamil ʜᴅ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Zee Cinema" ch-number="251" tvg-name="Zee Cinema" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="bollywood",ᴢᴇᴇ ᴄɪɴᴇᴍᴀ ʜᴅ
+#EXTINF:-1 tvg-id="Zee Cinema" ch-number="251" tvg-name="Zee Cinema" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png" group-title="bollywood",Z ᴄɪɴᴇᴍᴀ ʜᴅ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
@@ -621,16 +631,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 
 ###MOVIES SEA
-
-#EXTINF:-1 tvg-id="100.astro" group-title="MALAYA" tvg-name="Scream" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Scream_2025.png",astro SCREAM
-#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f12c73a0dacdc10dc8b165c6c769810:8c26845e721b25748d51e37dd0671aa6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5181/default_primary.mpd
 
 #EXTINF:-1 tvg-id="120.unifi" group-title="MALAYA" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",Degup
 #KODIPROP:inputstream=inputstream.adaptive
@@ -920,7 +920,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://v14.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=i3E0KEMuo2VZhddPlMI24Q&expires=1748340534&user_id=eGxsNDVDaVJhRkZoYnF4ZVVUWE1MRnJoSVA4SlNGWmlKaTIxNFFPZQ==
 
-#EXTINF:-1 tvg-id="Cartoonito HD" tvg-name="Cartoonito HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png?w=272" group-title="kids",ᴄᴀʀᴛᴏᴏɴɪᴛᴏ
+#EXTINF:-1 tvg-id="Cartoonito HD" tvg-name="Cartoonito" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png?w=272" group-title="kids",ᴄᴀʀᴛᴏᴏɴɪᴛᴏ
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1378,15 +1378,15 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 #KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
-#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV HD" tvg-logo="https://mutv.manutd.com/assets/images/MUTV_logo.png" group-title="sports",MUTV
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV" tvg-logo="https://mutv.manutd.com/assets/images/MUTV_logo.png" group-title="sports",MUTV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 group-title="sports" tvg-id="LFCTV HD" tvg-name="LFCTV HD" tvg-logo="https://pictr.com/images/2024/04/22/EDzj3Y.png",LFCTV
+#EXTINF:-1 group-title="sports" tvg-id="LFCTV.uk" tvg-name="LFCTV" tvg-logo="https://pictr.com/images/2024/04/22/EDzj3Y.png",LFCTV
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2VkZWNhNDhmNWIyLWM1YzgtMTNjNC0zZjBjLTk4YWQwMGNh/master.m3u8
 
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE NETWORK HD" tvg-logo="https://www.freepnglogos.com/uploads/wwe-silver-logo-png-4.png" group-title="sports",WWE ɴᴇᴛᴡᴏʀᴋ
+#EXTINF:-1 tvg-id="WWE.Network" tvg-name="WWE NETWORK" tvg-logo="https://www.freepnglogos.com/uploads/wwe-silver-logo-png-4.png" group-title="sports",WWE ɴᴇᴛᴡᴏʀᴋ
 https://drewski2423-dproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNzYvbW9uby5tM3U4.m3u8
 
 ### MUSIC
