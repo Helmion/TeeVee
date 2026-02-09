@@ -149,7 +149,7 @@ https://haoyunlai.serv00.net/Smartv.php?id=Warna-O
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png" group-title="MALAYA;asia",DRAMA HOTPOT
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png" group-title="MALAYA;asia" group-logo="https://d1qrzs23hpns6w.cloudfront.net/690x690/filters:fill(transparent):format(webp)/f/84976/2006x2006/9a4bcb01e0/linguistic-and-cultural-insights_-chinese-japanese-and-korean-languages-2.png",DRAMA HOTPOT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
