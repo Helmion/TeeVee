@@ -2,11 +2,11 @@
 
 ####### extra epg https://warningfm.github.io/x1/epg/guide.xml.gz, " max-conn="1" refresh="24" 
 
-#EXTINF:-1 tvg-id="100.astro" group-title="MALAYA" tvg-name="Scream" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png",astro HEROES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5183/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
+###EXTINF:-1 tvg-id="100.astro" group-title="MALAYA" tvg-name="Scream" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Heroes.png",astro HEROES
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5183/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-title="MALAYA" group-logo="https://png.pngtree.com/png-clipart/20220906/ourmid/pngtree-malaysia-hibiscus-png-image_6140000.png",rtm tv1
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
@@ -142,7 +142,7 @@ https://haoyunlai.serv00.net/Smartv.php?id=Warna-O
 ###EXTINF:-1 tvg-id="141.unifi" ch-number="141" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="MALAYA",Pesona
 ###https://
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png" tvg-id="" tvg-name="", group-title="MALAYA",FILEM MANTAP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png" tvg-id="" tvg-name="" group-title="MALAYA",FILEM MANTAP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
